@@ -1,0 +1,7 @@
+*.bndb
+*.so
+!test/
+test/*
+!test/*.c
+!test/Makefile
+!test/exp.py
